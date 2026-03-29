@@ -33,11 +33,11 @@
   <a href="https://github.com/jorgegmayorgas/TE_Sistemas_de_aprendizaje_automatico">
     <img src="images/logo.png" alt="Logo" width="128" height="128">
   </a>
-
-<h3 align="center">project_title</h3>
-
+<h2>Work in progress</h2>
+<h3 align="center">Focus Work for <a href="https://medac.es/cursos-especializacion-fp/inteligencia-artificial-big-data">MEDAC</a>   | Machine Learning Systems | Course Recommender</h3>
+<h4 align="center"><a href="https://www.todofp.es/dam/jcr:e0dd2b42-bb45-4659-aeda-b16512a04bcc/ce-gs-inteligencia-artificial-y-big-data.pdf">Master's Degree of Professional Training in Artificial Intelligence and Big Data</a> </h2>
   <p align="center">
-    project_description
+    Course recommender based on artificial data using non supervised techniques (clustering)
     <br />
     <a href="https://github.com/jorgegmayorgas/TE_Sistemas_de_aprendizaje_automatico"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `jorgegmayorgas`, `TE_Sistemas_de_aprendizaje_automatico`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+<!-- Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `jorgegmayorgas`, `TE_Sistemas_de_aprendizaje_automatico`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,9 +121,9 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * Python 3.12
-  ```sh
-  Download Python from https://www.python.org/downloads/release/python-31312/
-  ```
+  
+  Download Python from <a href="https://www.python.org/downloads/release/python-31312/">https://www.python.org/downloads/release/python-31312/</a>
+  
 
 ### Installation
 
